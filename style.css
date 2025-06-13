@@ -1,0 +1,59 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+  background-color:#ECE2D0;
+}
+nav.navbar{
+  background-color: aqua;
+}
+div.card-body{
+  background-color:#A26769;
+  color: white;
+}
+div.card-header{
+  background-color:#582C4D;
+  color: white;
+  font-size: x-large;
+}
+#Country{
+  color: white;
+  font-weight: 800;
+}
+#condition{
+  color: white;
+}
+  /* Apply dark background and white text */
+  .table-responsive .table {
+    background-color: #2c3e50 !important;
+    color: white !important;
+  }
+
+  .table-responsive .table thead {
+    background-color: #1a252f !important;
+    color: white !important;
+  }
+
+  .table-responsive .table tbody tr:nth-child(even) {
+    background-color: #34495e !important;
+  }
+
+  .table-responsive .table tbody tr:nth-child(odd) {
+    background-color: #2c3e50 !important;
+  }
+
+  .table-responsive .table th,
+  .table-responsive .table td {
+    border: 1px solid #555 !important;
+    padding: 10px;
+  }
+
+ footer {
+      text-align: center;
+      margin-top: 40px;
+      background-color: #BFB5AF;
+      color: #291711;
+      padding: 10px;
+    }
